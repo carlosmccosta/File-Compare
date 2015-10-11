@@ -36,4 +36,4 @@ Figure 6: Comparison of two files
 
 ![Colors info](docs/Colors-info.png "Colors info")
 
-Figure 6: Colors info
+Figure 7: Colors info
